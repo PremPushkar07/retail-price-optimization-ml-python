@@ -1,3 +1,5 @@
+A project that uses Python and machine learning to optimize product discounts using customer ratings and predictive modeling.
+
 Price Optimization Project (Retail Dataset)
 
 This project analyzes retail product pricing data to:
